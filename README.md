@@ -9,4 +9,4 @@ npm install express
 
 Далі перенесіть скачаний файл index.js в папку яку створила програма.
 
-Для старту - terminal - node.js
+Для старту - terminal - node index.js
